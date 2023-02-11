@@ -1,0 +1,15 @@
+.dog-logo {
+    height: 40px;
+    width: 40px;
+    border-radius: 31px;
+    margin-right: 10px;
+    object-fit: cover;
+}
+.header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 777;
+    display: inline-block;
+    width: 100%;
+}
